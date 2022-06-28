@@ -1,0 +1,17 @@
+{
+  "name": "integracao-mercado-pago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mercadopago": "^1.5.13",
+    "nodemon": "^2.0.18"
+  }
+}
